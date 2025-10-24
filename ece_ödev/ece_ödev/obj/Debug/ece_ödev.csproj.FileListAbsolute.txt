@@ -1,0 +1,43 @@
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\bin\Debug\ece_ödev.exe.config
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\bin\Debug\ece_ödev.exe
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\bin\Debug\ece_ödev.pdb
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.AssemblyReference.cache
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Form1.resources
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Properties.Resources.resources
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.GenerateResource.cache
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.CoreCompileInputs.cache
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\obj\Debug\ece_ödev.exe
+C:\Users\tbugr\source\repos\ece_ödev\ece_ödev\obj\Debug\ece_ödev.pdb
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\bin\Debug\ece_ödev.exe.config
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\bin\Debug\ece_ödev.exe
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\bin\Debug\ece_ödev.pdb
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.AssemblyReference.cache
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Form1.resources
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Properties.Resources.resources
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.GenerateResource.cache
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.CoreCompileInputs.cache
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\obj\Debug\ece_ödev.exe
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\obj\Debug\ece_ödev.pdb
+C:\Users\Ecenu\OneDrive\Masaüstü\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Form2.resources
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\bin\Debug\ece_ödev.exe.config
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\bin\Debug\ece_ödev.exe
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\bin\Debug\ece_ödev.pdb
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.AssemblyReference.cache
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Form1.resources
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Form2.resources
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Properties.Resources.resources
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.GenerateResource.cache
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.CoreCompileInputs.cache
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\obj\Debug\ece_ödev.exe
+C:\Users\ECENUR\Desktop\ece_ödev\ece_ödev\obj\Debug\ece_ödev.pdb
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\bin\Debug\ece_ödev.exe.config
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\bin\Debug\ece_ödev.exe
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\bin\Debug\ece_ödev.pdb
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.AssemblyReference.cache
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Form1.resources
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Form2.resources
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\obj\Debug\ece_ödev.Properties.Resources.resources
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.GenerateResource.cache
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\obj\Debug\ece_ödev.csproj.CoreCompileInputs.cache
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\obj\Debug\ece_ödev.exe
+C:\Users\ECENUR\Desktop\Yeni klasör\ece_ödev\ece_ödev\obj\Debug\ece_ödev.pdb
